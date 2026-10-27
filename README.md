@@ -64,9 +64,28 @@ To allow for easy management of tasks and to ensure the all aspects of the scope
 
 ### Repository Structure
 
-Directories are made to house specific types of files used in the code.
+Branch names should reflect the task worked on and a pull request created upon completion of the task description.
 
-1. Header files
+<u>Provisional codebase structure:</u>
+
+```
+personal-finance-tracker/
+├─ src/
+├─ include/
+├─ libs/
+├─ tests/
+└─ docs/
+```
+
+| Directory  | Description                                                                     |
+| ---------- | ------------------------------------------------------------------------------- |
+| `src/`     | implementation details (bodies of functions, definitions of class methods etc.) |
+| `include/` | header files (declaration of classes, functions and variables)                  |
+| `libs/`    | external code (probably not applicable here)                                    |
+| `tests/`   | for automated tests (out of scope)                                              |
+| `docs/`    | documentation                                                                   |
+
+Based on the examples provided in [Typical Project Directory Layout](https://www.studyplan.dev/cmake/organizing-a-cpp-project)
 
 ### Coding Guidelines
 
