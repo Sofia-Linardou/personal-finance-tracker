@@ -2,7 +2,7 @@
 
 A group project as part of the Computer Programming (COMP 2603) module. The Team consists of:
 
-1. Sofia Linardou (A00042850)
+1. Sofia Linardou (A00042850) - Team Lead
 1. Luke Kearns ()
 
 ### Project Guidelines
@@ -106,7 +106,7 @@ Member variables | `snake_case`
 Constant variables | `SCREAMING_SNAKE_CASE`
 Enums and its members | `PascalCase`
 Globals | `g_snake_case` |
-File names | Match case of class name in file|
+File names | Match case of class name in file (`.md` files use `kebab-case`)|
 
 #### Bracketing
 
