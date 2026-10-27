@@ -58,5 +58,49 @@ To allow for easy management of tasks and to ensure the all aspects of the scope
 - delete categories
 - assign categories to my expenses
 - save data to a file for future use
+- delete my account
 
-## Repository Structure
+## Source Code
+
+### Repository Structure
+
+Directories are made to house specific types of files used in the code.
+
+1. Header files
+
+### Coding Guidelines
+
+All code must be peer-reviewed before merging. This includes reading and understanding the program structure, manual testing and whether the code is in the correct format.
+
+As per the [C++ coding guidelines](https://github.com/Microsoft/AirSim/blob/main/docs/coding_guidelines.md):
+
+#### Naming Conventions
+
+Naming conventions should be consistent across the codebase.
+Code Element | Style
+---- | ----|
+Namespace | `snake_case`
+Class name | `PascalCase`
+Function name | `camelCase`
+Parameters/Locals | `snake_case `
+Member variables | `snake_case`
+Constant variables | `SCREAMING_SNAKE_CASE`
+Enums and its members | `PascalCase`
+Globals | `g_snake_case` |
+File names | Match case of class name in file|
+
+#### Bracketing
+
+Inside function or method body place curly bracket on same line. Outside that the Namespace, Class and methods levels use separate line. For example:
+
+```cpp
+int main()
+{
+    int x = 0;
+    if (x < 10) {
+        x++;
+    } else {
+        x--;
+    }
+}
+```
