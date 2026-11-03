@@ -1,0 +1,37 @@
+# Meeting Minutes:
+
+**Date and time:** 2026-11-02
+
+**Facilitator:** Sofia
+
+**Note taker:** Sofia
+
+**Attendees:** Sofia, Luke
+
+**Absent:** N/A
+
+## Agenda
+
+- Go through current Jira board together
+- Schedule weekly meetings to update each other
+- Consider implementation for account creation
+
+## Discussion Notes
+
+- Allow option to login as guest (default option).
+- If a user has created an account in that session 'logging out' and logging back in should be possible.
+- No session management to be implemented.
+
+## Project Board
+
+| Task   | Assignee | Details                       |
+| :----- | :------- | :---------------------------- |
+| KAN-24 | [SL]     | Format and upload the minutes |
+
+## Parking lot
+
+N/A
+
+## Next meeting
+
+**Date:** 04/11/2026

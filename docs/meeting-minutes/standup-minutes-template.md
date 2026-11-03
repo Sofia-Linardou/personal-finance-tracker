@@ -1,6 +1,6 @@
 # Standup Minutes:
 
-**Date and time:** YYYY-MM-DD
+**Date and time:** DD-MM-YYYY
 
 **Facilitator:** [Name]
 
@@ -9,6 +9,8 @@
 **Attendees:** [Names]
 
 **Absent:** [Names]
+
+## Agenda
 
 ## Discussion Notes
 
@@ -24,4 +26,4 @@
 
 ## Next meeting
 
-**Date:** [Date or "Not scheduled"]
+**Date:** [DD-MM-YYYY or "Not scheduled"]
