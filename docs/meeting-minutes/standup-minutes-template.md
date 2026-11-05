@@ -22,7 +22,7 @@
 
 ## Parking lot
 
-- [Deferred topic, owner, and intended follow-up]
+N/A
 
 ## Next meeting
 
